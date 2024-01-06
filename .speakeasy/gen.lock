@@ -4,15 +4,15 @@ management:
   docChecksum: 21c25ca8a734b4fb704e98d966524ee0
   docVersion: 1.0.0
   speakeasyVersion: internal
-  generationVersion: 2.225.2
-  releaseVersion: 0.3.1
-  configChecksum: 17a74cac816faa72907d326c84d7e5f6
+  generationVersion: 2.228.1
+  releaseVersion: 0.3.2
+  configChecksum: 876e793857288cbe2149c6b4c4dd8657
   repoURL: https://github.com/speakeasy-sdks/bar-test.git
   repoSubDirectory: .
   installationURL: https://github.com/speakeasy-sdks/bar-test.git
 features:
   python:
-    core: 4.4.0
+    core: 4.4.1
     globalServerURLs: 2.82.1
 generatedFiles:
   - src/swagger_petstore/sdkconfiguration.py
