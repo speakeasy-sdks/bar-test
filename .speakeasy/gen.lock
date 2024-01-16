@@ -4,7 +4,7 @@ management:
   docChecksum: aa6977d96a8cc744e4588f1cbcefdde3
   docVersion: 1.0.0
   speakeasyVersion: internal
-  generationVersion: 2.230.3
+  generationVersion: 2.233.2
   releaseVersion: 0.3.3
   configChecksum: 298e035b967b5e8f2fb238f238b7a0fa
   repoURL: https://github.com/speakeasy-sdks/bar-test.git
